@@ -40,5 +40,5 @@ Python • Git & GitHub • Problem Solving • Basic AI/LLM concepts
 - [ ] Applied for internships
 
 ## Connect with Me
-- LinkedIn: add your link here
-- Email: add your email here
+- LinkedIn: https://www.linkedin.com/in/rakshitha-v-3a1327422
+- Email:rakshithabalija@gmail.com
